@@ -7,7 +7,7 @@ function App() {
     <div className="min-h-screen bg-gray-50">
       <header className="bg-white shadow-sm">
         <div className="max-w-7xl mx-auto px-4 py-6">
-          <h1 className="text-3xl font-bold text-gray-900">Kalkulimi i Pagës</h1>
+          <h1 className="text-3xl font-bold text-gray-900">Kalkulimi i Pages</h1>
           <p className="mt-2 text-gray-600">
             Llogaritni pagën tuaj bruto dhe neto për Kosovë dhe Shqipëri me kalkulatorin tonë të përditësuar
           </p>
@@ -18,7 +18,7 @@ function App() {
         <Calculator />
 
         <section className="mt-12 prose max-w-none">
-          <h2 className="text-2xl font-bold mb-6">Kalkulimi i Pagës në Kosovë dhe Shqipëri</h2>
+          <h2 className="text-2xl font-bold mb-6">Kalkulimi i Pages në Kosovë dhe Shqipëri</h2>
           
           <div className="bg-white rounded-lg shadow-lg p-6 mb-8">
             <p className="mb-4">
